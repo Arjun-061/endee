@@ -1,0 +1,5 @@
+Data Scientist|Python Machine Learning Data Analysis AI
+Web Developer|HTML CSS JavaScript React
+Software Engineer|Java C++ Problem Solving Algorithms
+Cloud Engineer|AWS Azure DevOps Cloud Computing
+Cyber Security Analyst|Network Security Ethical Hacking
