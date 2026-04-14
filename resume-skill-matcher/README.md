@@ -27,7 +27,7 @@ Data Scientist
 
 ## 📷 Demonstration
 
-![Output Screenshot](output.png)
+![Output Screenshot](Output.png)
 
 ## 🔗 Relation to Vector Databases
 Simulates how vector databases like Endee:
