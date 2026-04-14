@@ -25,6 +25,10 @@ Python Machine Learning
 Output:
 Data Scientist
 
+## 📷 Demonstration
+
+![Output Screenshot](output.png)
+
 ## 🔗 Relation to Vector Databases
 Simulates how vector databases like Endee:
 - Store embeddings
